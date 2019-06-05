@@ -1,0 +1,1 @@
+Creating a neural network without using any packages. We read the data and train the model using backpropagation method.
